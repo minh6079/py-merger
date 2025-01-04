@@ -2,7 +2,7 @@
 Merge a python script with images and music and more into one file
 
 Find this part:
-# Input
+#Input
 
 index_py = 'index.py'
 
@@ -10,7 +10,8 @@ folders_to_embed = ['images', 'songs', 'other_folders']  # Replace with actual f
 
 output_py = 'single_output.py'
 
-
+Instruction:
+----------------------------------------------------------------------------------
 Replace index.py with your python script name.
 
 Replace the folders name.
