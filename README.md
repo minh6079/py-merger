@@ -3,9 +3,13 @@ Merge a python script with images and music and more into one file
 
 Find this part:
 # Input
+
 index_py = 'index.py'
+
 folders_to_embed = ['images', 'songs', 'other_folders']  # Replace with actual folder names
+
 output_py = 'single_output.py'
+
 
 Replace index.py with your python script name.
 
